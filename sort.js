@@ -25,3 +25,4 @@ const quickSort = (arr) => {
 }
 
 console.log(quickSort([100, 2, 5, 4, 7, 5, 6, 8, 0, 12, 34, 15]));
+ console.log("test")
